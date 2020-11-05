@@ -1,3 +1,6 @@
+COMPATIBILITY
+Drupal 7.x | Ubercart 3.x
+
 uc_fieldextras brings a few enhancements to the Drupal Ubercart shopping cart platform.
 
 What it does

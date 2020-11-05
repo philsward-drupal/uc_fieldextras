@@ -15,7 +15,7 @@ Currently, this module adds the following functionality:
 - [x] Quantity Autoselect: When enabled, this will force the quantity form field to select and highlight the quantity number so the user doesn't have to first delete the number.
 - [x] Phone as HTML 5: Adds HTML5 functionality to the /cart/checkout phone form field to make mobile entry easier. Also includes basic number validation for US & Canada.
 - [x] Email as HTML 5: Converts the /cart/checkout email form field to HTML5 and has whitespace trimming capability to remove all possibilities of a user having a whitespace in their email address which normally produces an error.
-- [x] Required as HTML 5: Make all required form elements on required in a HTML5 compatible way, by adding the "required" attribute to the "input" tags, thus enabling HTML5 compatible browsers to make sure that some value has been entered into required fields.
+- [x] Required as HTML 5: Make all "cart" required form elements HTML5 compatible by adding the **required** attribute to the `<input>` tags, thus enabling HTML5 compatible browsers to make sure that some value has been entered into required fields. This opens the form fields up for proper css styling if a required form is empty and you want to shade it red for attention as an example. (no default styling has been provided)
 
 ## REQUIREMENTS
 
